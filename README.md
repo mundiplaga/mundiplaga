@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, welcome to my projects
 
-<!--
-**mundiplaga/mundiplaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## VRChat
+I've created a number of VRChat avatars by extracting meshes from GTA 5 and Everquest game files.
+- Here's an [introductory tutorial](https://www.youtube.com/watch?v=U-TJACOPOtw) on ripping and rigging GTA5 meshes.
+<img src="images/vrchatavatars.PNG" width="400px">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recently I've began publishing zones from Everquest into VRChat.
+- [Everquest Avatar World](https://vrchat.com/home/content/worlds/wrld_5b0cea15-667a-4d3b-bb5e-3802cecce593)<br>
+<img src="images/eqavatars.PNG" width="400px">
+- [Kelethin/Greater Faydark](https://vrchat.com/home/world/wrld_ffbd56f2-e800-4ef0-895a-ed30611378cd)<br>
+<img src="images/kelethin.PNG" width="400px">
+
+Due to the sheer size of Unity projects, I store all these files on a private Gitea server, but I'm working on [making the documentation available.](https://github.com/mundiplaga/vrchat/wiki)
+
+## Music
+I've played drums in a few bands over the years.
+
+- [KaPlaa](https://kaplaa.bandcamp.com/)
+- [Samsquanch](https://samsquanchyeah.bandcamp.com/album/ocelot-of-problems)
+- [My Own Mindset](https://myownmindset.bandcamp.com/track/all-your-stories)
+
+## You can reach me on [Discord](https://discordapp.com/users/mundiplaga)
