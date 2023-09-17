@@ -9,6 +9,7 @@ I've created a number of VRChat avatars by extracting meshes from GTA 5 and Ever
 ### Recently I've began publishing zones from Everquest into VRChat.
 - [Everquest Avatar World](https://vrchat.com/home/content/worlds/wrld_5b0cea15-667a-4d3b-bb5e-3802cecce593)<br>
 <img src="images/eqavatars.PNG" width="400px">
+
 - [Kelethin/Greater Faydark](https://vrchat.com/home/world/wrld_ffbd56f2-e800-4ef0-895a-ed30611378cd)<br>
 <img src="images/kelethin.PNG" width="400px">
 
