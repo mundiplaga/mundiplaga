@@ -15,6 +15,10 @@ I've created a number of VRChat avatars by extracting meshes from GTA 5 and Ever
 
 Due to the sheer size of Unity projects, I store all these files on a private Gitea server, but I'm working on [making the documentation available.](https://github.com/mundiplaga/vrchat/wiki)
 
+## Discord Projects
+
+- [StableDiffusion Discord Chat Integration](https://github.com/mundiplaga/jester-bot)
+
 ## Music
 I've played drums in a few bands over the years.
 
