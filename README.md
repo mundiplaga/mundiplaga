@@ -6,7 +6,7 @@ I've created a number of VRChat avatars by extracting meshes from GTA 5 and Ever
 <img src="images/vrchatavatars.PNG" width="400px">
 
 
-### Recently I've began publishing zones from Everquest into VRChat.
+### Recently I've began publishing zones from Everquest into VRChat using [LanternEQ Tools](https://www.lanterneq.com).
 - [Everquest Avatar World](https://vrchat.com/home/content/worlds/wrld_5b0cea15-667a-4d3b-bb5e-3802cecce593)<br>
 <img src="images/eqavatars.PNG" width="400px">
 
