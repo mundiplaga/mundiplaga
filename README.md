@@ -13,7 +13,8 @@ I've created a number of VRChat avatars by extracting meshes from GTA 5 and Ever
 - [Kelethin/Greater Faydark](https://github.com/mundiplaga/vrchat/wiki/Kelethin)<br>
 <img src="images/kelethin.PNG" width="400px">
 
-Due to the sheer size of Unity projects, I store all these files on a private Gitea server, but I'm working on [making the documentation available.](https://github.com/mundiplaga/vrchat/wiki)
+### Documentation
+[Work in Progress](https://github.com/mundiplaga/vrchat/wiki)
 
 ## Discord Projects
 
