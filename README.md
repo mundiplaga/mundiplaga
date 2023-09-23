@@ -6,15 +6,16 @@ I've created a number of VRChat avatars by extracting meshes from GTA 5 and Ever
 <img src="images/vrchatavatars.PNG" width="400px">
 
 
-### Recently I've began publishing zones from Everquest into VRChat using [LanternEQ Tools](https://www.lanterneq.com).
+Recently I've began publishing zones from Everquest into VRChat using [LanternEQ Tools](https://www.lanterneq.com).
+
+### Documentation
+[Work in Progress](https://github.com/mundiplaga/vrchat/wiki)
+
 - [Everquest Avatar World](https://github.com/mundiplaga/vrchat/wiki/Avatar-World)<br>
 <img src="images/eqavatars.PNG" width="400px">
 
 - [Kelethin/Greater Faydark](https://github.com/mundiplaga/vrchat/wiki/Kelethin)<br>
 <img src="images/kelethin.PNG" width="400px">
-
-### Documentation
-[Work in Progress](https://github.com/mundiplaga/vrchat/wiki)
 
 ## Discord Projects
 
