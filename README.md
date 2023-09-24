@@ -17,7 +17,7 @@ Recently I've began publishing zones from Everquest into VRChat using [LanternEQ
 <img src="images/kelethin.PNG" width="400px">
 
 - [Estate of Unrest](https://github.com/mundiplaga/vrchat/wiki/Unrest)
-<img src="images/unrest.PNG" width="400px">
+<img src="images/unrest_teaparty.PNG" width="400px">
 
 ## Discord Projects
 
