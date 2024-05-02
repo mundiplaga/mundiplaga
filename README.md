@@ -22,6 +22,7 @@ Recently I've began publishing zones from Everquest into VRChat using [LanternEQ
 ## Discord Projects
 
 - [StableDiffusion Discord Chat Integration](https://github.com/mundiplaga/jester-bot)
+- [Evobot Automated Discord Music Bot GCP](https://github.com/mundiplaga/evobot-gcp)
 
 ## Music
 I've played drums in a few bands over the years.
