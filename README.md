@@ -31,9 +31,4 @@ I've played drums in a few bands over the years.
 - [Samsquanch](https://samsquanchyeah.bandcamp.com/album/ocelot-of-problems)
 - [My Own Mindset](https://myownmindset.bandcamp.com/track/all-your-stories)
 
-## Website
-Trying to learn some templating/css
-
-- [ApiStatus](https://apistatus.app)
-
 ## You can reach me on [Discord](https://discordapp.com/users/mundiplaga)
